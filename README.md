@@ -18,3 +18,4 @@ g++ main.cpp password_manager.cpp -o securepass
 ```
 ./securepass
 ```
+![SecurePass Terminal](SecurePass_Terminal.png)
